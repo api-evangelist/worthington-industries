@@ -1,7 +1,11 @@
 aid: worthington-industries
-url: https://raw.githubusercontent.com/api-evangelist/worthington-industries/refs/heads/main/apis.yml
+url: 
+  https://raw.githubusercontent.com/api-evangelist/worthington-industries/refs/heads/main/apis.yml
 modified: '2026-03-24'
 apis: []
 common:
   - type: Website
     url: https://www.worthington-industries.com
+description: >-
+  Worthington Industries is a global diversified metals manufacturing company specializing
+  in value-added steel processing and manufactured metal products.
