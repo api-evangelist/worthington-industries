@@ -1,0 +1,85 @@
+vocabulary:
+  name: Worthington Industries Vocabulary
+  description: >-
+    Domain vocabulary for Worthington Industries, a diversified metals
+    manufacturing company that split into Worthington Enterprises and
+    Worthington Steel in December 2023.
+  version: '2026-05-03'
+  terms:
+    - term: Steel Processing
+      definition: >-
+        Value-added processing services applied to flat-rolled steel including
+        slitting, blanking, leveling, laser cutting, and coating operations.
+      tags:
+        - Manufacturing
+        - Steel
+    - term: Flat-Rolled Steel
+      definition: >-
+        Steel that has been passed through a set of rollers to achieve a
+        uniform thickness; the primary product category for Worthington Steel.
+      tags:
+        - Materials
+        - Steel
+    - term: Electrical Steel Laminations
+      definition: >-
+        Precision-stamped steel laminations used in electric motor cores,
+        transformers, and generators, produced by the Tempel Steel division.
+      tags:
+        - Electrical
+        - Manufacturing
+    - term: Tailor Welded Blanks
+      definition: >-
+        Custom steel blanks formed by laser-welding multiple steel sheets of
+        different gauges or grades to produce a single optimized part, typically
+        for automotive applications; produced by the TWB Company joint venture.
+      tags:
+        - Automotive
+        - Manufacturing
+    - term: Building Products
+      definition: >-
+        Products for construction and building markets including metal framing,
+        ceiling solutions, HVAC parts, and metal roofing components, sold under
+        the ClarkDietrich, WAVE, Elgen, and LSI Group brands.
+      tags:
+        - Construction
+        - Building Products
+    - term: Consumer Products
+      definition: >-
+        Branded consumer goods including propane cylinders, hand torches,
+        outdoor living products, and celebration supplies sold through retail
+        channels.
+      tags:
+        - Consumer
+        - Retail
+    - term: Worthington Enterprises
+      definition: >-
+        One of the two publicly traded companies formed from the December 2023
+        split of Worthington Industries; focuses on building products and
+        consumer products segments.
+      tags:
+        - Company
+        - Building Products
+    - term: Worthington Steel
+      definition: >-
+        One of the two publicly traded companies formed from the December 2023
+        split of Worthington Industries; focuses on steel processing, electrical
+        steel laminations, and tailor welded blanks.
+      tags:
+        - Company
+        - Steel Processing
+    - term: Supply Chain Solutions
+      definition: >-
+        Strategic steel procurement, price risk management, and materials
+        management services offered by Worthington Steel to minimize customer
+        inventory exposure and optimize steel sourcing.
+      tags:
+        - Supply Chain
+        - Procurement
+    - term: Oracle Cloud SCM
+      definition: >-
+        Worthington's enterprise supply chain management platform running on
+        Oracle Cloud, used for demand management, sales and operations planning,
+        and customer order management.
+      tags:
+        - Technology
+        - ERP

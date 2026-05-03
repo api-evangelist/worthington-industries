@@ -1,0 +1,59 @@
+{
+  "@context": {
+    "@version": 1.1,
+    "schema": "https://schema.org/",
+    "xsd": "http://www.w3.org/2001/XMLSchema#",
+    "wi": "https://www.worthingtonenterprises.com/vocab#",
+    "ws": "https://www.worthingtonsteel.com/vocab#",
+
+    "WorthingtonIndustries": {
+      "@id": "schema:Organization",
+      "@type": "@id"
+    },
+    "name": "schema:name",
+    "description": "schema:description",
+    "url": "schema:url",
+    "ticker": "schema:tickerSymbol",
+
+    "SteelProcessor": {
+      "@id": "wi:SteelProcessor",
+      "@type": "@id"
+    },
+    "steelProcessing": "ws:steelProcessing",
+    "flatRolledSteel": "ws:flatRolledSteel",
+    "electricalSteelLaminations": "ws:electricalSteelLaminations",
+    "tailorWeldedBlanks": "ws:tailorWeldedBlanks",
+
+    "BuildingProducts": {
+      "@id": "wi:BuildingProducts",
+      "@type": "@id"
+    },
+    "metalFraming": "wi:metalFraming",
+    "ceilingProducts": "wi:ceilingProducts",
+    "hvacParts": "wi:hvacParts",
+    "metalRoofing": "wi:metalRoofing",
+
+    "ConsumerProducts": {
+      "@id": "wi:ConsumerProducts",
+      "@type": "@id"
+    },
+    "propaneCylinders": "wi:propaneCylinders",
+    "outdoorLiving": "wi:outdoorLiving",
+    "celebrations": "wi:celebrations",
+
+    "supplyChainSolution": "ws:supplyChainSolution",
+    "materialsSupport": "ws:materialsSupport",
+    "buyingIntelligence": "ws:buyingIntelligence",
+    "steelMill": {
+      "@id": "ws:steelMill",
+      "@type": "@id"
+    },
+    "processingFacility": {
+      "@id": "ws:processingFacility",
+      "@type": "@id"
+    },
+    "brand": "schema:brand",
+    "parentOrganization": "schema:parentOrganization",
+    "subsidiary": "schema:subOrganization"
+  }
+}
