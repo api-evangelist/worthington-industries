@@ -1,7 +1,9 @@
 ---
 title: Worthington Steel Q3 sales rise 12%, margins tighten
 url: https://www.stocktitan.net/sec-filings/WS/8-k-worthington-steel-inc-reports-material-event-75fedfbd9770.html
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"Worthington Industries" press release artificial intelligence'
 position: 5
 source: serpapi-google

@@ -1,7 +1,9 @@
 ---
 title: Impact Story Empowering Growth
 url: https://www.worthingtonenterprises.com/our-impact/people/impact-story--empowering-growth
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"Worthington Industries" press release artificial intelligence'
 position: 1
 source: serpapi-google
